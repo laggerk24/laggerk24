@@ -85,7 +85,9 @@
 
 ## 📌 Projects
 - [Cashe](https://www.cashe.co.in/) – Digital lending platform.
+- [Cashe](https://play.google.com/store/apps/details?id=co.tslc.cashe.android&hl=en_IN) – Digital lending platform App.
 - [Karat Wealth](https://karatwealth.in/) – Wealth management solutions.
+- [Karat Wealth]([https://karatwealth.in/](https://play.google.com/store/apps/details?id=in.app_13karat.app.twa&hl=en)) – Wealth management solutions App.
 - [BetMGM Sports Blog](https://sports.betmgm.com/en/blog/) – Sports insights & news.
 - [BetMGM Canada](https://www.on.betmgm.ca/en/sports) – Online sports betting platform.
 
