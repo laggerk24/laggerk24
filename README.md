@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 Software Developer with **3.5+ years** of professional experience.
+- 💼 Software Developer with **4+ years** of professional experience.
 - 💡 Passionate about **Full-Stack Development**, **System Design**, and **Problem Solving**.
 - 🌱 Always learning and adapting to **latest technologies**.
 - 🎯 Goal: Build **scalable, high-performance** applications.
